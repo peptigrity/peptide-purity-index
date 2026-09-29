@@ -1,0 +1,881 @@
+{
+  "name": "Peptigrity Purity Index",
+  "generated_at": "2026-09-29T08:00:15.042Z",
+  "data_as_of": "2026-09-27T21:37:43.201Z",
+  "composite": {
+    "value": 99.5,
+    "test_count": 11580,
+    "compound_count": 64
+  },
+  "populations": {
+    "index_qualifying": 11580,
+    "index_eligible": 11608,
+    "published_purity": 13282,
+    "net_content": 12635
+  },
+  "failure": {
+    "below_purity_count": 37,
+    "below_purity_rate": 0.28,
+    "below_purity_denominator": "published_purity",
+    "underdosed_count": 914,
+    "underdosed_rate": 7.23,
+    "underdosed_denominator": "net_content"
+  },
+  "method": {
+    "weighting": "recency-weighted mean",
+    "min_tests": 5,
+    "min_labs": 2,
+    "weight_cap": 0.15,
+    "weight_cap_binds": 0,
+    "largest_share_pct": 11.51,
+    "min_quarter_tests": 50,
+    "min_quarter_compounds": 5,
+    "measurement_technique": "High-performance liquid chromatography"
+  },
+  "quarterly": [
+    {
+      "quarter": "2019 Q4",
+      "composite": null,
+      "test_count": 0,
+      "compound_count": 0,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2020 Q1",
+      "composite": null,
+      "test_count": 0,
+      "compound_count": 0,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2020 Q2",
+      "composite": null,
+      "test_count": 0,
+      "compound_count": 0,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2020 Q3",
+      "composite": null,
+      "test_count": 0,
+      "compound_count": 0,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2020 Q4",
+      "composite": null,
+      "test_count": 0,
+      "compound_count": 0,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2021 Q1",
+      "composite": null,
+      "test_count": 0,
+      "compound_count": 0,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2021 Q2",
+      "composite": null,
+      "test_count": 0,
+      "compound_count": 0,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2021 Q3",
+      "composite": null,
+      "test_count": 0,
+      "compound_count": 0,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2021 Q4",
+      "composite": null,
+      "test_count": 0,
+      "compound_count": 0,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2022 Q1",
+      "composite": null,
+      "test_count": 0,
+      "compound_count": 0,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2022 Q2",
+      "composite": null,
+      "test_count": 0,
+      "compound_count": 0,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2022 Q3",
+      "composite": null,
+      "test_count": 0,
+      "compound_count": 0,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2022 Q4",
+      "composite": null,
+      "test_count": 5,
+      "compound_count": 1,
+      "partial": false,
+      "withheld_thin_sample": true
+    },
+    {
+      "quarter": "2023 Q1",
+      "composite": null,
+      "test_count": 10,
+      "compound_count": 2,
+      "partial": false,
+      "withheld_thin_sample": true
+    },
+    {
+      "quarter": "2023 Q2",
+      "composite": null,
+      "test_count": 11,
+      "compound_count": 2,
+      "partial": false,
+      "withheld_thin_sample": true
+    },
+    {
+      "quarter": "2023 Q3",
+      "composite": null,
+      "test_count": 26,
+      "compound_count": 4,
+      "partial": false,
+      "withheld_thin_sample": true
+    },
+    {
+      "quarter": "2023 Q4",
+      "composite": 99.66,
+      "test_count": 52,
+      "compound_count": 6,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2024 Q1",
+      "composite": 99.5,
+      "test_count": 101,
+      "compound_count": 9,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2024 Q2",
+      "composite": 99.48,
+      "test_count": 216,
+      "compound_count": 19,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2024 Q3",
+      "composite": 99.49,
+      "test_count": 304,
+      "compound_count": 23,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2024 Q4",
+      "composite": 99.46,
+      "test_count": 453,
+      "compound_count": 27,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2025 Q1",
+      "composite": 99.43,
+      "test_count": 738,
+      "compound_count": 32,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2025 Q2",
+      "composite": 99.48,
+      "test_count": 1192,
+      "compound_count": 38,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2025 Q3",
+      "composite": 99.45,
+      "test_count": 2327,
+      "compound_count": 44,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2025 Q4",
+      "composite": 99.45,
+      "test_count": 4294,
+      "compound_count": 52,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2026 Q1",
+      "composite": 99.5,
+      "test_count": 7844,
+      "compound_count": 61,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2026 Q2",
+      "composite": 99.5,
+      "test_count": 10778,
+      "compound_count": 63,
+      "partial": false,
+      "withheld_thin_sample": false
+    },
+    {
+      "quarter": "2026 Q3",
+      "composite": 99.5,
+      "test_count": 11580,
+      "compound_count": 64,
+      "partial": true,
+      "withheld_thin_sample": false
+    }
+  ],
+  "compounds": [
+    {
+      "slug": "slu-pp-332",
+      "name": "SLU-PP-332",
+      "index": 99.81,
+      "change_90d": -0.06,
+      "test_count": 7,
+      "lab_count": 4
+    },
+    {
+      "slug": "vilon",
+      "name": "Vilon",
+      "index": 99.76,
+      "change_90d": 0,
+      "test_count": 18,
+      "lab_count": 8
+    },
+    {
+      "slug": "tirzepatide",
+      "name": "Tirzepatide",
+      "index": 99.75,
+      "change_90d": 0,
+      "test_count": 1020,
+      "lab_count": 23
+    },
+    {
+      "slug": "pt-141",
+      "name": "PT-141",
+      "index": 99.7,
+      "change_90d": -0.01,
+      "test_count": 262,
+      "lab_count": 21
+    },
+    {
+      "slug": "melanotan-i-mt-1",
+      "name": "Melanotan I (MT-1)",
+      "index": 99.7,
+      "change_90d": 0.03,
+      "test_count": 146,
+      "lab_count": 17
+    },
+    {
+      "slug": "retatrutide",
+      "name": "Retatrutide",
+      "index": 99.69,
+      "change_90d": 0.01,
+      "test_count": 1333,
+      "lab_count": 24
+    },
+    {
+      "slug": "ss-31-elamipretide",
+      "name": "SS-31 (Elamipretide)",
+      "index": 99.69,
+      "change_90d": 0,
+      "test_count": 228,
+      "lab_count": 18
+    },
+    {
+      "slug": "semaglutide",
+      "name": "Semaglutide",
+      "index": 99.68,
+      "change_90d": 0,
+      "test_count": 437,
+      "lab_count": 21
+    },
+    {
+      "slug": "pe-22-28",
+      "name": "PE-22-28",
+      "index": 99.68,
+      "change_90d": 0.04,
+      "test_count": 12,
+      "lab_count": 4
+    },
+    {
+      "slug": "ipamorelin",
+      "name": "Ipamorelin",
+      "index": 99.67,
+      "change_90d": 0.01,
+      "test_count": 356,
+      "lab_count": 22
+    },
+    {
+      "slug": "testagen",
+      "name": "Testagen",
+      "index": 99.67,
+      "change_90d": 0.02,
+      "test_count": 22,
+      "lab_count": 8
+    },
+    {
+      "slug": "survodutide",
+      "name": "Survodutide",
+      "index": 99.66,
+      "change_90d": 0.05,
+      "test_count": 40,
+      "lab_count": 10
+    },
+    {
+      "slug": "n-acetyl-semax-amidate",
+      "name": "N-Acetyl Semax Amidate",
+      "index": 99.66,
+      "change_90d": 0.02,
+      "test_count": 35,
+      "lab_count": 10
+    },
+    {
+      "slug": "cerebrolysin",
+      "name": "Cerebrolysin",
+      "index": 99.66,
+      "change_90d": null,
+      "test_count": 5,
+      "lab_count": 3
+    },
+    {
+      "slug": "ghk-cu",
+      "name": "GHK-Cu",
+      "index": 99.65,
+      "change_90d": -0.01,
+      "test_count": 602,
+      "lab_count": 23
+    },
+    {
+      "slug": "cagrilintide",
+      "name": "Cagrilintide",
+      "index": 99.65,
+      "change_90d": 0.03,
+      "test_count": 257,
+      "lab_count": 20
+    },
+    {
+      "slug": "melanotan-ii-mt-2",
+      "name": "Melanotan II (MT-2)",
+      "index": 99.64,
+      "change_90d": 0,
+      "test_count": 273,
+      "lab_count": 21
+    },
+    {
+      "slug": "vesugen",
+      "name": "Vesugen",
+      "index": 99.64,
+      "change_90d": -0.02,
+      "test_count": 20,
+      "lab_count": 10
+    },
+    {
+      "slug": "selank",
+      "name": "SELANK",
+      "index": 99.63,
+      "change_90d": -0.01,
+      "test_count": 317,
+      "lab_count": 23
+    },
+    {
+      "slug": "5-amino-1mq",
+      "name": "5-Amino-1MQ",
+      "index": 99.62,
+      "change_90d": 0.02,
+      "test_count": 186,
+      "lab_count": 18
+    },
+    {
+      "slug": "cartalax",
+      "name": "Cartalax",
+      "index": 99.61,
+      "change_90d": 0.02,
+      "test_count": 52,
+      "lab_count": 11
+    },
+    {
+      "slug": "aicar",
+      "name": "Aicar",
+      "index": 99.61,
+      "change_90d": 0.01,
+      "test_count": 15,
+      "lab_count": 7
+    },
+    {
+      "slug": "adamax-davunetide-nap",
+      "name": "Adamax (Davunetide/NAP)",
+      "index": 99.6,
+      "change_90d": 0,
+      "test_count": 36,
+      "lab_count": 8
+    },
+    {
+      "slug": "gonadorelin",
+      "name": "Gonadorelin",
+      "index": 99.59,
+      "change_90d": 0.03,
+      "test_count": 13,
+      "lab_count": 5
+    },
+    {
+      "slug": "mazdutide",
+      "name": "Mazdutide",
+      "index": 99.58,
+      "change_90d": 0.01,
+      "test_count": 32,
+      "lab_count": 11
+    },
+    {
+      "slug": "pnc-27",
+      "name": "PNC-27",
+      "index": 99.57,
+      "change_90d": 0.02,
+      "test_count": 15,
+      "lab_count": 8
+    },
+    {
+      "slug": "kpv",
+      "name": "KPV",
+      "index": 99.56,
+      "change_90d": -0.01,
+      "test_count": 261,
+      "lab_count": 21
+    },
+    {
+      "slug": "pinealon",
+      "name": "Pinealon",
+      "index": 99.55,
+      "change_90d": 0.05,
+      "test_count": 72,
+      "lab_count": 12
+    },
+    {
+      "slug": "cjc-1295-without-dac",
+      "name": "CJC-1295 without DAC",
+      "index": 99.54,
+      "change_90d": 0.01,
+      "test_count": 225,
+      "lab_count": 22
+    },
+    {
+      "slug": "thymosin-alpha-1-a1",
+      "name": "Thymosin-Alpha 1 (A1)",
+      "index": 99.52,
+      "change_90d": 0.01,
+      "test_count": 236,
+      "lab_count": 19
+    },
+    {
+      "slug": "prostamax",
+      "name": "Prostamax",
+      "index": 99.51,
+      "change_90d": 0,
+      "test_count": 14,
+      "lab_count": 7
+    },
+    {
+      "slug": "p21-p021",
+      "name": "P21 (P021)",
+      "index": 99.51,
+      "change_90d": 0.01,
+      "test_count": 10,
+      "lab_count": 5
+    },
+    {
+      "slug": "cardiogen",
+      "name": "Cardiogen",
+      "index": 99.49,
+      "change_90d": -0.03,
+      "test_count": 16,
+      "lab_count": 7
+    },
+    {
+      "slug": "kisspeptin",
+      "name": "Kisspeptin",
+      "index": 99.47,
+      "change_90d": 0.05,
+      "test_count": 172,
+      "lab_count": 18
+    },
+    {
+      "slug": "glutathione",
+      "name": "Glutathione",
+      "index": 99.47,
+      "change_90d": -0.06,
+      "test_count": 137,
+      "lab_count": 16
+    },
+    {
+      "slug": "mots-c",
+      "name": "MOTS-C",
+      "index": 99.46,
+      "change_90d": 0.03,
+      "test_count": 574,
+      "lab_count": 23
+    },
+    {
+      "slug": "pancragen",
+      "name": "Pancragen",
+      "index": 99.46,
+      "change_90d": -0.02,
+      "test_count": 8,
+      "lab_count": 4
+    },
+    {
+      "slug": "semax",
+      "name": "SEMAX",
+      "index": 99.45,
+      "change_90d": -0.01,
+      "test_count": 294,
+      "lab_count": 22
+    },
+    {
+      "slug": "tesamorelin",
+      "name": "Tesamorelin",
+      "index": 99.44,
+      "change_90d": -0.01,
+      "test_count": 521,
+      "lab_count": 24
+    },
+    {
+      "slug": "epithalon",
+      "name": "EPITHALON",
+      "index": 99.44,
+      "change_90d": 0.04,
+      "test_count": 269,
+      "lab_count": 20
+    },
+    {
+      "slug": "ll-37",
+      "name": "LL-37",
+      "index": 99.44,
+      "change_90d": 0.12,
+      "test_count": 64,
+      "lab_count": 16
+    },
+    {
+      "slug": "crystagen",
+      "name": "Crystagen",
+      "index": 99.44,
+      "change_90d": -0.06,
+      "test_count": 6,
+      "lab_count": 4
+    },
+    {
+      "slug": "foxo4-dri",
+      "name": "FOXO4-DRI",
+      "index": 99.42,
+      "change_90d": -0.04,
+      "test_count": 61,
+      "lab_count": 14
+    },
+    {
+      "slug": "tb-500",
+      "name": "TB-500",
+      "index": 99.41,
+      "change_90d": 0.03,
+      "test_count": 402,
+      "lab_count": 23
+    },
+    {
+      "slug": "peg-mgf",
+      "name": "PEG MGF",
+      "index": 99.41,
+      "change_90d": -0.01,
+      "test_count": 27,
+      "lab_count": 13
+    },
+    {
+      "slug": "vip-vasoactive-intestinal-peptide",
+      "name": "VIP (Vasoactive Intestinal Peptide)",
+      "index": 99.38,
+      "change_90d": 0.01,
+      "test_count": 76,
+      "lab_count": 14
+    },
+    {
+      "slug": "sermorelin",
+      "name": "Sermorelin",
+      "index": 99.35,
+      "change_90d": -0.02,
+      "test_count": 224,
+      "lab_count": 17
+    },
+    {
+      "slug": "aod-9604",
+      "name": "AOD-9604",
+      "index": 99.35,
+      "change_90d": 0.09,
+      "test_count": 146,
+      "lab_count": 16
+    },
+    {
+      "slug": "snap-8",
+      "name": "SNAP-8",
+      "index": 99.34,
+      "change_90d": 0,
+      "test_count": 83,
+      "lab_count": 14
+    },
+    {
+      "slug": "ghrp-6",
+      "name": "GHRP-6",
+      "index": 99.34,
+      "change_90d": 0,
+      "test_count": 47,
+      "lab_count": 12
+    },
+    {
+      "slug": "cjc-1295-with-dac",
+      "name": "CJC-1295 with DAC",
+      "index": 99.24,
+      "change_90d": 0.05,
+      "test_count": 110,
+      "lab_count": 16
+    },
+    {
+      "slug": "dsip-delta-sleep-inducing-peptide",
+      "name": "DSIP (Delta Sleep-inducing Peptide)",
+      "index": 99.23,
+      "change_90d": -0.03,
+      "test_count": 243,
+      "lab_count": 21
+    },
+    {
+      "slug": "ghrp-2",
+      "name": "GHRP-2",
+      "index": 99.19,
+      "change_90d": 0.01,
+      "test_count": 38,
+      "lab_count": 12
+    },
+    {
+      "slug": "bpc-157",
+      "name": "BPC-157",
+      "index": 99.14,
+      "change_90d": -0.24,
+      "test_count": 666,
+      "lab_count": 23
+    },
+    {
+      "slug": "oxytocin",
+      "name": "Oxytocin",
+      "index": 99.13,
+      "change_90d": 0.13,
+      "test_count": 62,
+      "lab_count": 14
+    },
+    {
+      "slug": "nad",
+      "name": "NAD+",
+      "index": 99.12,
+      "change_90d": 0.01,
+      "test_count": 364,
+      "lab_count": 23
+    },
+    {
+      "slug": "hgh-fragment-176-191",
+      "name": "HGH Fragment 176–191",
+      "index": 99.05,
+      "change_90d": 0.02,
+      "test_count": 61,
+      "lab_count": 12
+    },
+    {
+      "slug": "follistatin",
+      "name": "Follistatin",
+      "index": 99.02,
+      "change_90d": 0.22,
+      "test_count": 7,
+      "lab_count": 6
+    },
+    {
+      "slug": "hexarelin",
+      "name": "Hexarelin",
+      "index": 98.99,
+      "change_90d": 0.02,
+      "test_count": 25,
+      "lab_count": 8
+    },
+    {
+      "slug": "ara-290",
+      "name": "ARA-290",
+      "index": 98.83,
+      "change_90d": 0.25,
+      "test_count": 95,
+      "lab_count": 13
+    },
+    {
+      "slug": "thymalin",
+      "name": "THYMALIN",
+      "index": 98.71,
+      "change_90d": 0.94,
+      "test_count": 46,
+      "lab_count": 13
+    },
+    {
+      "slug": "igf-1-lr3",
+      "name": "IGF-1 LR3",
+      "index": 98.52,
+      "change_90d": -0.02,
+      "test_count": 139,
+      "lab_count": 17
+    },
+    {
+      "slug": "ahk-cu",
+      "name": "AHK-Cu",
+      "index": 98.02,
+      "change_90d": 1.47,
+      "test_count": 31,
+      "lab_count": 11
+    },
+    {
+      "slug": "ovagen",
+      "name": "Ovagen",
+      "index": 97.19,
+      "change_90d": 0.37,
+      "test_count": 9,
+      "lab_count": 6
+    },
+    {
+      "slug": "adipotide",
+      "name": "Adipotide",
+      "index": null,
+      "change_90d": null,
+      "test_count": 4,
+      "lab_count": 2
+    },
+    {
+      "slug": "tesofensine",
+      "name": "Tesofensine",
+      "index": null,
+      "change_90d": null,
+      "test_count": 4,
+      "lab_count": 3
+    },
+    {
+      "slug": "cortagen",
+      "name": "Cortagen",
+      "index": null,
+      "change_90d": null,
+      "test_count": 4,
+      "lab_count": 2
+    },
+    {
+      "slug": "thymulin",
+      "name": "Thymulin",
+      "index": null,
+      "change_90d": null,
+      "test_count": 4,
+      "lab_count": 2
+    },
+    {
+      "slug": "igf-1-des",
+      "name": "IGF-1 DES",
+      "index": null,
+      "change_90d": null,
+      "test_count": 3,
+      "lab_count": 2
+    },
+    {
+      "slug": "follistatin-344",
+      "name": "Follistatin-344",
+      "index": null,
+      "change_90d": null,
+      "test_count": 2,
+      "lab_count": 2
+    },
+    {
+      "slug": "epo-erythropoietin",
+      "name": "EPO (Erythropoietin)",
+      "index": null,
+      "change_90d": null,
+      "test_count": 1,
+      "lab_count": 1
+    },
+    {
+      "slug": "humanin",
+      "name": "Humanin",
+      "index": null,
+      "change_90d": null,
+      "test_count": 1,
+      "lab_count": 1
+    },
+    {
+      "slug": "orforglipron",
+      "name": "Orforglipron",
+      "index": null,
+      "change_90d": null,
+      "test_count": 1,
+      "lab_count": 1
+    },
+    {
+      "slug": "ace-031",
+      "name": "ACE-031",
+      "index": null,
+      "change_90d": null,
+      "test_count": 1,
+      "lab_count": 1
+    },
+    {
+      "slug": "thymosin-beta-4",
+      "name": "Thymosin Beta-4",
+      "index": null,
+      "change_90d": null,
+      "test_count": 1,
+      "lab_count": 1
+    },
+    {
+      "slug": "dihexa",
+      "name": "Dihexa",
+      "index": null,
+      "change_90d": null,
+      "test_count": 1,
+      "lab_count": 1
+    },
+    {
+      "slug": "argireline",
+      "name": "Argireline",
+      "index": null,
+      "change_90d": null,
+      "test_count": 1,
+      "lab_count": 1
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/"
+}

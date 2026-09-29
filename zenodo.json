@@ -1,0 +1,18 @@
+{
+  "upload_type": "dataset",
+  "title": "Peptigrity Purity Index",
+  "creators": [
+    { "name": "Peptigrity" }
+  ],
+  "description": "<p>Recency-weighted HPLC purity of research peptides, one row per compound, aggregated from independent third-party laboratory tests indexed by Peptigrity.</p><p>Live data, updated daily: <a href=\"https://peptigrity.com/purity-index\">https://peptigrity.com/purity-index</a>. This record is a dated quarterly snapshot. Method, thresholds and weights are documented on the live page.</p><p>The dataset describes the samples that were tested, not the whole market, and contains no shop, vendor or batch identifiers.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "peptides",
+    "research peptides",
+    "HPLC",
+    "purity",
+    "laboratory testing",
+    "quality control"
+  ]
+}

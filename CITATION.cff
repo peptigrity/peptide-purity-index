@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Peptigrity Purity Index"
+abstract: "Recency-weighted HPLC purity of research peptides, one row per compound, aggregated from independent third-party laboratory tests indexed by Peptigrity."
+authors:
+  - name: "Peptigrity"
+    website: "https://peptigrity.com"
+url: "https://peptigrity.com/purity-index"
+repository: "https://github.com/peptigrity/peptide-purity-index"
+license: CC-BY-4.0
+keywords:
+  - peptides
+  - research peptides
+  - HPLC
+  - purity
+  - laboratory testing
+  - quality control
